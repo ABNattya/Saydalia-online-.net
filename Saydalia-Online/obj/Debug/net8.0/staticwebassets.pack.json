@@ -1,0 +1,3265 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Saydalia-Online.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Saydalia-Online.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\css\\aos.css",
+      "PackagePath": "staticwebassets\\css\\aos.css"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\css\\bootstrap\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\css\\bootstrap\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\css\\bootstrap\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\css\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\css\\jquery-ui.css"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\css\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\css\\style.min.css",
+      "PackagePath": "staticwebassets\\css\\style.min.css"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\css\\style.min.css.map",
+      "PackagePath": "staticwebassets\\css\\style.min.css.map"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\css\\styleAdmin.css",
+      "PackagePath": "staticwebassets\\css\\styleAdmin.css"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\.gitattributes",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\.gitattributes"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\._Elegant-Dashboard-Kit",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\._Elegant-Dashboard-Kit"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\._Eledant Dashboard Kit",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\._Eledant Dashboard Kit"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\._info.txt",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\._info.txt"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\._screenshot.jpg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\._screenshot.jpg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\._css",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\._css"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\._fonts",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\._fonts"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\._img",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\._img"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\._index.html",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\._index.html"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\._js",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\._js"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\._plugins",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\._plugins"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\._signin.html",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\._signin.html"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\._signup.html",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\._signup.html"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\css\\._style.css",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\css\\._style.css"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\css\\._style.min.css",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\css\\._style.min.css"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\css\\._style.min.css.map",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\css\\._style.min.css.map"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\fonts\\._Inter-Black.woff2",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\fonts\\._Inter-Black.woff2"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\fonts\\._Inter-Bold.woff2",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\fonts\\._Inter-Bold.woff2"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\fonts\\._Inter-ExtraBold.woff2",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\fonts\\._Inter-ExtraBold.woff2"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\fonts\\._Inter-ExtraLight.woff2",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\fonts\\._Inter-ExtraLight.woff2"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\fonts\\._Inter-Light.woff2",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\fonts\\._Inter-Light.woff2"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\fonts\\._Inter-Medium.woff2",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\fonts\\._Inter-Medium.woff2"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\fonts\\._Inter-Regular.woff2",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\fonts\\._Inter-Regular.woff2"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\fonts\\._Inter-SemiBold.woff2",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\fonts\\._Inter-SemiBold.woff2"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\fonts\\._Inter-Thin.woff2",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\fonts\\._Inter-Thin.woff2"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\fonts\\._demo.html",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\fonts\\._demo.html"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\fonts\\._stylesheet.css",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\fonts\\._stylesheet.css"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\._avatar",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\._avatar"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\._categories",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\._categories"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\._svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\._svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\avatar\\._Avatar.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\avatar\\._Avatar.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\avatar\\._avatar-2.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\avatar\\._avatar-2.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\avatar\\._avatar-face-02.png",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\avatar\\._avatar-face-02.png"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\avatar\\._avatar-face-02.webp",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\avatar\\._avatar-face-02.webp"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\avatar\\._avatar-face-03.png",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\avatar\\._avatar-face-03.png"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\avatar\\._avatar-face-03.webp",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\avatar\\._avatar-face-03.webp"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\avatar\\._avatar-face-04.png",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\avatar\\._avatar-face-04.png"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\avatar\\._avatar-face-04.webp",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\avatar\\._avatar-face-04.webp"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\avatar\\._avatar-face-05.png",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\avatar\\._avatar-face-05.png"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\avatar\\._avatar-face-05.webp",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\avatar\\._avatar-face-05.webp"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\avatar\\._avatar-illustrated-01.png",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\avatar\\._avatar-illustrated-01.png"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\avatar\\._avatar-illustrated-01.webp",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\avatar\\._avatar-illustrated-01.webp"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\avatar\\._avatar-illustrated-02.png",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\avatar\\._avatar-illustrated-02.png"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\avatar\\._avatar-illustrated-02.webp",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\avatar\\._avatar-illustrated-02.webp"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\avatar\\._avatar-illustrated-03.png",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\avatar\\._avatar-illustrated-03.png"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\avatar\\._avatar-illustrated-03.webp",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\avatar\\._avatar-illustrated-03.webp"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\avatar\\._avatar-illustrated-04.png",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\avatar\\._avatar-illustrated-04.png"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\avatar\\._avatar-illustrated-04.webp",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\avatar\\._avatar-illustrated-04.webp"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\categories\\._01.jpg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\categories\\._01.jpg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\categories\\._01.webp",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\categories\\._01.webp"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\categories\\._02.jpg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\categories\\._02.jpg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\categories\\._02.webp",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\categories\\._02.webp"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\categories\\._03.jpg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\categories\\._03.jpg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\categories\\._03.webp",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\categories\\._03.webp"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\categories\\._04.jpg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\categories\\._04.jpg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\categories\\._04.webp",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\categories\\._04.webp"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\._404.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\._404.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\._Bulk",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\._Bulk"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\._GoogleDrive.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\._GoogleDrive.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\._Logo.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\._Logo.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\._baloon.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\._baloon.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\._customers.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\._customers.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\._dropbox.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\._dropbox.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\._image-frame.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\._image-frame.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\._move.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\._move.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\._radio.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\._radio.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\._thumbnail.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\._thumbnail.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._2 User.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._2 User.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._3-User-gray.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._3-User-gray.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._3-User-white.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._3-User-white.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Activity.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Activity.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._AddUser.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._AddUser.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Arrow-Down.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Arrow-Down.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Arrow-Down2.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Arrow-Down2.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Arrow-Down3.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Arrow-Down3.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Arrow-DownCircle.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Arrow-DownCircle.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Arrow-DownSquare.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Arrow-DownSquare.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Arrow-Left.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Arrow-Left.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Arrow-Left2.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Arrow-Left2.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Arrow-Left3.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Arrow-Left3.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Arrow-LeftCircle.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Arrow-LeftCircle.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Arrow-LeftSquare.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Arrow-LeftSquare.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Arrow-Right.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Arrow-Right.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Arrow-Right2.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Arrow-Right2.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Arrow-Right3.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Arrow-Right3.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Arrow-RightCircle.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Arrow-RightCircle.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Arrow-RightSquare.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Arrow-RightSquare.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Arrow-Up.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Arrow-Up.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Arrow-Up2.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Arrow-Up2.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Arrow-Up3.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Arrow-Up3.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Arrow-UpCircle.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Arrow-UpCircle.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Arrow-UpSquare.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Arrow-UpSquare.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Arrows-up-down.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Arrows-up-down.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Bag 3.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Bag 3.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Bag.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Bag.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Bookmark.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Bookmark.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Buy.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Buy.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Calendar.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Calendar.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Call Missed.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Call Missed.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Call Silent.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Call Silent.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Call.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Call.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Calling.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Calling.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Camera.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Camera.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Category-gray.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Category-gray.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Category-white.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Category-white.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Chart.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Chart.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Chat.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Chat.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Close Square.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Close Square.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Danger.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Danger.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Delete.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Delete.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Discount.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Discount.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Discovery.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Discovery.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Document-gray.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Document-gray.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Document-white.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Document-white.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Download.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Download.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Edit Square.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Edit Square.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Edit-gray.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Edit-gray.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Edit-white.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Edit-white.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Filter 2.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Filter 2.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Filter.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Filter.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Folder-gray.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Folder-gray.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Folder-white.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Folder-white.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Game.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Game.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Graph.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Graph.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Heart.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Heart.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Hide.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Hide.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Home-gray.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Home-gray.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Home-white.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Home-white.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Image 3.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Image 3.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Image-gray.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Image-gray.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Image-white.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Image-white.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Info Circle.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Info Circle.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Info Square.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Info Square.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Location.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Location.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Lock.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Lock.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Login.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Login.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Logout.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Logout.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Menu-toggle-gray.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Menu-toggle-gray.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Menu-toggle-white.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Menu-toggle-white.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Message-gray.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Message-gray.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Message-white.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Message-white.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._More Circle.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._More Circle.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._More Square.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._More Square.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Notification-gray.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Notification-gray.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Notification.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Notification.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Paper Download.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Paper Download.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Paper Fail.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Paper Fail.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Paper Negative.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Paper Negative.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Paper Plus.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Paper Plus.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Paper Upload.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Paper Upload.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Paper-gray.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Paper-gray.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Paper-white.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Paper-white.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Password.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Password.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Play.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Play.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Plus.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Plus.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Profile.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Profile.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Scan.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Scan.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Search.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Search.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Send.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Send.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Setting-gray.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Setting-gray.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Setting-white.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Setting-white.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Settings-line.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Settings-line.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Shield Done.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Shield Done.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Shield Fail.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Shield Fail.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Show.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Show.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Star.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Star.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Swap.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Swap.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Tick Square.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Tick Square.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Ticket Star.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Ticket Star.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Ticket.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Ticket.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Time Square.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Time Square.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._TimeCircle.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._TimeCircle.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Unlock.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Unlock.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Upload.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Upload.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Video.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Video.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Voice 3.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Voice 3.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Voice.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Voice.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Volume Down.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Volume Down.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Volume Off.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Volume Off.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Volume Up.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Volume Up.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Wallet.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Wallet.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Work.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\img\\svg\\Bulk\\._Work.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\js\\._script.js",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\js\\._script.js"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\plugins\\._chart.min.js",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\plugins\\._chart.min.js"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\plugins\\._feather.min.js",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\plugins\\._feather.min.js"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\plugins\\._feather.min.js.map",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\__MACOSX\\Elegant-Dashboard-Kit\\Eledant Dashboard Kit\\plugins\\._feather.min.js.map"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\css\\style.min.css",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\css\\style.min.css"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\css\\style.min.css.map",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\css\\style.min.css.map"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\css\\styleAdmin.css",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\css\\styleAdmin.css"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\fonts\\Inter-Black.woff2",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\fonts\\Inter-Black.woff2"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\fonts\\Inter-Bold.woff2",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\fonts\\Inter-Bold.woff2"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\fonts\\Inter-ExtraBold.woff2",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\fonts\\Inter-ExtraBold.woff2"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\fonts\\Inter-ExtraLight.woff2",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\fonts\\Inter-ExtraLight.woff2"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\fonts\\Inter-Light.woff2",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\fonts\\Inter-Light.woff2"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\fonts\\Inter-Medium.woff2",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\fonts\\Inter-Medium.woff2"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\fonts\\Inter-Regular.woff2",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\fonts\\Inter-Regular.woff2"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\fonts\\Inter-SemiBold.woff2",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\fonts\\Inter-SemiBold.woff2"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\fonts\\Inter-Thin.woff2",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\fonts\\Inter-Thin.woff2"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\fonts\\demo.html",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\fonts\\demo.html"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\fonts\\stylesheet.css",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\fonts\\stylesheet.css"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\avatar\\Avatar.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\avatar\\Avatar.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\avatar\\avatar-2.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\avatar\\avatar-2.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\avatar\\avatar-face-02.png",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\avatar\\avatar-face-02.png"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\avatar\\avatar-face-02.webp",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\avatar\\avatar-face-02.webp"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\avatar\\avatar-face-03.png",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\avatar\\avatar-face-03.png"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\avatar\\avatar-face-03.webp",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\avatar\\avatar-face-03.webp"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\avatar\\avatar-face-04.png",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\avatar\\avatar-face-04.png"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\avatar\\avatar-face-04.webp",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\avatar\\avatar-face-04.webp"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\avatar\\avatar-face-05.png",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\avatar\\avatar-face-05.png"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\avatar\\avatar-face-05.webp",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\avatar\\avatar-face-05.webp"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\avatar\\avatar-illustrated-01.png",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\avatar\\avatar-illustrated-01.png"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\avatar\\avatar-illustrated-01.webp",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\avatar\\avatar-illustrated-01.webp"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\avatar\\avatar-illustrated-02.png",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\avatar\\avatar-illustrated-02.png"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\avatar\\avatar-illustrated-02.webp",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\avatar\\avatar-illustrated-02.webp"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\avatar\\avatar-illustrated-03.png",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\avatar\\avatar-illustrated-03.png"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\avatar\\avatar-illustrated-03.webp",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\avatar\\avatar-illustrated-03.webp"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\avatar\\avatar-illustrated-04.png",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\avatar\\avatar-illustrated-04.png"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\avatar\\avatar-illustrated-04.webp",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\avatar\\avatar-illustrated-04.webp"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\categories\\01.jpg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\categories\\01.jpg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\categories\\01.webp",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\categories\\01.webp"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\categories\\02.jpg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\categories\\02.jpg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\categories\\02.webp",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\categories\\02.webp"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\categories\\03.jpg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\categories\\03.jpg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\categories\\03.webp",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\categories\\03.webp"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\categories\\04.jpg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\categories\\04.jpg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\categories\\04.webp",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\categories\\04.webp"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\404.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\404.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\2 User.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\2 User.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\3-User-gray.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\3-User-gray.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\3-User-white.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\3-User-white.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Activity.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Activity.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\AddUser.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\AddUser.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Arrow-Down.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Arrow-Down.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Arrow-Down2.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Arrow-Down2.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Arrow-Down3.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Arrow-Down3.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Arrow-DownCircle.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Arrow-DownCircle.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Arrow-DownSquare.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Arrow-DownSquare.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Arrow-Left.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Arrow-Left.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Arrow-Left2.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Arrow-Left2.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Arrow-Left3.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Arrow-Left3.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Arrow-LeftCircle.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Arrow-LeftCircle.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Arrow-LeftSquare.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Arrow-LeftSquare.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Arrow-Right.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Arrow-Right.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Arrow-Right2.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Arrow-Right2.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Arrow-Right3.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Arrow-Right3.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Arrow-RightCircle.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Arrow-RightCircle.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Arrow-RightSquare.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Arrow-RightSquare.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Arrow-Up.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Arrow-Up.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Arrow-Up2.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Arrow-Up2.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Arrow-Up3.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Arrow-Up3.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Arrow-UpCircle.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Arrow-UpCircle.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Arrow-UpSquare.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Arrow-UpSquare.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Arrows-up-down.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Arrows-up-down.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Bag 3.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Bag 3.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Bag.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Bag.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Bookmark.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Bookmark.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Buy.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Buy.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Calendar.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Calendar.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Call Missed.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Call Missed.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Call Silent.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Call Silent.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Call.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Call.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Calling.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Calling.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Camera.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Camera.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Category-gray.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Category-gray.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Category-white.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Category-white.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Chart.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Chart.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Chat.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Chat.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Close Square.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Close Square.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Danger.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Danger.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Delete.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Delete.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Discount.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Discount.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Discovery.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Discovery.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Document-gray.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Document-gray.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Document-white.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Document-white.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Download.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Download.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Edit Square.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Edit Square.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Edit-gray.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Edit-gray.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Edit-white.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Edit-white.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Filter 2.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Filter 2.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Filter.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Filter.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Folder-gray.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Folder-gray.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Folder-white.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Folder-white.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Game.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Game.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Graph.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Graph.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Heart.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Heart.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Hide.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Hide.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Home-gray.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Home-gray.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Home-white.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Home-white.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Image 3.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Image 3.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Image-gray.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Image-gray.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Image-white.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Image-white.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Info Circle.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Info Circle.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Info Square.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Info Square.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Location.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Location.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Lock.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Lock.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Login.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Login.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Logout.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Logout.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Menu-toggle-gray.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Menu-toggle-gray.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Menu-toggle-white.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Menu-toggle-white.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Message-gray.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Message-gray.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Message-white.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Message-white.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\More Circle.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\More Circle.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\More Square.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\More Square.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Notification-gray.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Notification-gray.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Notification.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Notification.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Paper Download.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Paper Download.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Paper Fail.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Paper Fail.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Paper Negative.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Paper Negative.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Paper Plus.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Paper Plus.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Paper Upload.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Paper Upload.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Paper-gray.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Paper-gray.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Paper-white.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Paper-white.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Password.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Password.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Play.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Play.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Plus.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Plus.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Profile.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Profile.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Scan.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Scan.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Search.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Search.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Send.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Send.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Setting-gray.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Setting-gray.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Setting-white.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Setting-white.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Settings-line.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Settings-line.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Shield Done.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Shield Done.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Shield Fail.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Shield Fail.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Show.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Show.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Star.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Star.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Swap.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Swap.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Tick Square.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Tick Square.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Ticket Star.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Ticket Star.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Ticket.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Ticket.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Time Square.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Time Square.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\TimeCircle.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\TimeCircle.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Unlock.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Unlock.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Upload.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Upload.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Video.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Video.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Voice 3.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Voice 3.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Voice.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Voice.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Volume Down.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Volume Down.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Volume Off.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Volume Off.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Volume Up.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Volume Up.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Wallet.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Wallet.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Bulk\\Work.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Bulk\\Work.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\GoogleDrive.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\GoogleDrive.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\Logo.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\Logo.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\baloon.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\baloon.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\customers.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\customers.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\dropbox.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\dropbox.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\image-frame.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\image-frame.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\move.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\move.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\radio.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\radio.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\img\\svg\\thumbnail.svg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\img\\svg\\thumbnail.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\index.html",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\index.html"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\info.txt",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\info.txt"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\js\\script.js",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\js\\script.js"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\plugins\\chart.min.js",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\plugins\\chart.min.js"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\plugins\\feather.min.js",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\plugins\\feather.min.js"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\plugins\\feather.min.js.map",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\plugins\\feather.min.js.map"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\screenshot.jpg",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\screenshot.jpg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\signin.html",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\signin.html"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\AdminDashboard\\signup.html",
+      "PackagePath": "staticwebassets\\files\\AdminDashboard\\signup.html"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\images\\00adfcc0-4e06-4b54-bfe0-03c49bac42a4_product_01.png",
+      "PackagePath": "staticwebassets\\files\\images\\00adfcc0-4e06-4b54-bfe0-03c49bac42a4_product_01.png"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\images\\05097407-801b-469c-bc4c-3d864230c0cd_wallpaperflare.com_wallpaper (22).jpg",
+      "PackagePath": "staticwebassets\\files\\images\\05097407-801b-469c-bc4c-3d864230c0cd_wallpaperflare.com_wallpaper (22).jpg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\images\\056449d7-3827-4937-8f5c-08ec60edb148_product_01.png",
+      "PackagePath": "staticwebassets\\files\\images\\056449d7-3827-4937-8f5c-08ec60edb148_product_01.png"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\images\\07b0fac0-470c-4a17-9873-29b0961c2d14_person_1.jpg",
+      "PackagePath": "staticwebassets\\files\\images\\07b0fac0-470c-4a17-9873-29b0961c2d14_person_1.jpg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\images\\0a82f790-128a-4f6b-b1f8-c070f7b04ed2_product_01.png",
+      "PackagePath": "staticwebassets\\files\\images\\0a82f790-128a-4f6b-b1f8-c070f7b04ed2_product_01.png"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\images\\0dff530f-3867-4fef-a2f0-82d14b021288_product_03.png",
+      "PackagePath": "staticwebassets\\files\\images\\0dff530f-3867-4fef-a2f0-82d14b021288_product_03.png"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\images\\0e246c03-6644-40cc-ac57-5e4099ef4d44_product_01.png",
+      "PackagePath": "staticwebassets\\files\\images\\0e246c03-6644-40cc-ac57-5e4099ef4d44_product_01.png"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\images\\11b076fe-5929-4f13-9252-fdd9cc03db8a_person_1.jpg",
+      "PackagePath": "staticwebassets\\files\\images\\11b076fe-5929-4f13-9252-fdd9cc03db8a_person_1.jpg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\images\\12a35bd6-e465-4886-a75c-ceff5fda79ae_4.jpg",
+      "PackagePath": "staticwebassets\\files\\images\\12a35bd6-e465-4886-a75c-ceff5fda79ae_4.jpg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\images\\198efbd9-1241-49ca-a0b6-0b6c0fde87d7_product_04.png",
+      "PackagePath": "staticwebassets\\files\\images\\198efbd9-1241-49ca-a0b6-0b6c0fde87d7_product_04.png"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\images\\1b7d9e9a-ef35-4f59-8f1d-9210647d1b47_shoe.png",
+      "PackagePath": "staticwebassets\\files\\images\\1b7d9e9a-ef35-4f59-8f1d-9210647d1b47_shoe.png"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\images\\1c6af0aa-5356-459a-8bee-12ced0e0fef9_wallpaperflare.com_wallpaper (59).jpg",
+      "PackagePath": "staticwebassets\\files\\images\\1c6af0aa-5356-459a-8bee-12ced0e0fef9_wallpaperflare.com_wallpaper (59).jpg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\images\\252d8a1a-6a4b-4ba3-8150-a6017d67cb9e_person_1.jpg",
+      "PackagePath": "staticwebassets\\files\\images\\252d8a1a-6a4b-4ba3-8150-a6017d67cb9e_person_1.jpg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\images\\2b6a2a4c-9a43-49c0-b73b-b03bccd4fd19_product_06.png",
+      "PackagePath": "staticwebassets\\files\\images\\2b6a2a4c-9a43-49c0-b73b-b03bccd4fd19_product_06.png"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\images\\2d223c47-6e57-47f6-b1b5-6c7b3102f5b7_product_06.png",
+      "PackagePath": "staticwebassets\\files\\images\\2d223c47-6e57-47f6-b1b5-6c7b3102f5b7_product_06.png"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\images\\316e1364-38ab-4b0e-81fa-793c3efa88b9_product_02.png",
+      "PackagePath": "staticwebassets\\files\\images\\316e1364-38ab-4b0e-81fa-793c3efa88b9_product_02.png"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\images\\3530e9ee-f00c-4a0e-9ae7-8008ac423c9a_product_02.png",
+      "PackagePath": "staticwebassets\\files\\images\\3530e9ee-f00c-4a0e-9ae7-8008ac423c9a_product_02.png"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\images\\38db9dc1-011a-49a8-9b90-2fc6f9e70c1c_product_02.png",
+      "PackagePath": "staticwebassets\\files\\images\\38db9dc1-011a-49a8-9b90-2fc6f9e70c1c_product_02.png"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\images\\3ae65b62-917b-48f2-8578-e054bc24f92e_product_03.png",
+      "PackagePath": "staticwebassets\\files\\images\\3ae65b62-917b-48f2-8578-e054bc24f92e_product_03.png"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\images\\3c88c5dc-1683-4433-8a28-dc3f7efb0b6aimage.png",
+      "PackagePath": "staticwebassets\\files\\images\\3c88c5dc-1683-4433-8a28-dc3f7efb0b6aimage.png"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\images\\3d4869fd-ba88-4437-807f-1a4a2f9db502_product_06.png",
+      "PackagePath": "staticwebassets\\files\\images\\3d4869fd-ba88-4437-807f-1a4a2f9db502_product_06.png"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\images\\3fd92520-0c31-4dcc-a380-75f30a7f5184_wallpaperflare.com_wallpaper (16).jpg",
+      "PackagePath": "staticwebassets\\files\\images\\3fd92520-0c31-4dcc-a380-75f30a7f5184_wallpaperflare.com_wallpaper (16).jpg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\images\\448cb976-bb38-4c34-b07e-8b955df754da_product_01.png",
+      "PackagePath": "staticwebassets\\files\\images\\448cb976-bb38-4c34-b07e-8b955df754da_product_01.png"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\images\\473ead4c-f4cf-4e5b-aeaf-ffbd6524d635_product_03.png",
+      "PackagePath": "staticwebassets\\files\\images\\473ead4c-f4cf-4e5b-aeaf-ffbd6524d635_product_03.png"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\images\\4e557620-0de5-4d30-8d99-5a6e7ab54963_product_01.png",
+      "PackagePath": "staticwebassets\\files\\images\\4e557620-0de5-4d30-8d99-5a6e7ab54963_product_01.png"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\images\\4e659688-951d-4600-869d-779c3cbd2bbf_product_06.png",
+      "PackagePath": "staticwebassets\\files\\images\\4e659688-951d-4600-869d-779c3cbd2bbf_product_06.png"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\images\\51aadc09-723f-4882-9013-f196f2c2d2f3_02ef330da5a9a34397059e9c31bf1f3f.jpg",
+      "PackagePath": "staticwebassets\\files\\images\\51aadc09-723f-4882-9013-f196f2c2d2f3_02ef330da5a9a34397059e9c31bf1f3f.jpg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\images\\52b7ac0e-bc96-4d77-a818-5f91646a980c_product_07_large.png",
+      "PackagePath": "staticwebassets\\files\\images\\52b7ac0e-bc96-4d77-a818-5f91646a980c_product_07_large.png"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\images\\58d2e5bf-c636-44bf-97be-9b8a9c53a853_Screenshot 2024-10-07 130415.png",
+      "PackagePath": "staticwebassets\\files\\images\\58d2e5bf-c636-44bf-97be-9b8a9c53a853_Screenshot 2024-10-07 130415.png"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\images\\5a714268-31be-47b1-8172-3dd3deed07e4_Formal pic.jpg",
+      "PackagePath": "staticwebassets\\files\\images\\5a714268-31be-47b1-8172-3dd3deed07e4_Formal pic.jpg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\images\\5b10b9a8-3703-445b-94db-a241bb6c3e57_product_06.png",
+      "PackagePath": "staticwebassets\\files\\images\\5b10b9a8-3703-445b-94db-a241bb6c3e57_product_06.png"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\images\\5c689ee3-3867-4161-8e49-2abd8cf39d3a_1.jpg",
+      "PackagePath": "staticwebassets\\files\\images\\5c689ee3-3867-4161-8e49-2abd8cf39d3a_1.jpg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\images\\62b47899-cf0f-413b-a2bf-878ea08728cf_4.jpg",
+      "PackagePath": "staticwebassets\\files\\images\\62b47899-cf0f-413b-a2bf-878ea08728cf_4.jpg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\images\\693fdfd8-e928-43b2-968a-e5a07b17ff3c_wallpaperflare.com_wallpaper (30).jpg",
+      "PackagePath": "staticwebassets\\files\\images\\693fdfd8-e928-43b2-968a-e5a07b17ff3c_wallpaperflare.com_wallpaper (30).jpg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\images\\7a34325c-01b9-48c9-b5cf-2d57eaaa863e_4.jpg",
+      "PackagePath": "staticwebassets\\files\\images\\7a34325c-01b9-48c9-b5cf-2d57eaaa863e_4.jpg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\images\\7c2d23aa-0ca3-4421-be28-e7250f7a83b6_product_01.png",
+      "PackagePath": "staticwebassets\\files\\images\\7c2d23aa-0ca3-4421-be28-e7250f7a83b6_product_01.png"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\images\\83345563-d0a0-4cab-ad3e-4237925b5cc9_Screenshot 2024-10-07 130015.png",
+      "PackagePath": "staticwebassets\\files\\images\\83345563-d0a0-4cab-ad3e-4237925b5cc9_Screenshot 2024-10-07 130015.png"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\images\\83586eea-d50c-4fed-99c7-327696815da3_product_05.png",
+      "PackagePath": "staticwebassets\\files\\images\\83586eea-d50c-4fed-99c7-327696815da3_product_05.png"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\images\\8968252a-c80a-420f-bedf-085e3a78f573_product_06.png",
+      "PackagePath": "staticwebassets\\files\\images\\8968252a-c80a-420f-bedf-085e3a78f573_product_06.png"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\images\\8a036308-7ce9-4dc3-8a8e-c8cb66b29ccf_product_04.png",
+      "PackagePath": "staticwebassets\\files\\images\\8a036308-7ce9-4dc3-8a8e-c8cb66b29ccf_product_04.png"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\images\\92407d9f-7a13-41c3-87b7-c272e29b6122_6.jpg",
+      "PackagePath": "staticwebassets\\files\\images\\92407d9f-7a13-41c3-87b7-c272e29b6122_6.jpg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\images\\9494b0fa-07dd-44f4-ae53-5e910937bc4a_product_06.png",
+      "PackagePath": "staticwebassets\\files\\images\\9494b0fa-07dd-44f4-ae53-5e910937bc4a_product_06.png"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\images\\9ee8a075-3a9b-4406-aee8-365b8e678abf_1.jpg",
+      "PackagePath": "staticwebassets\\files\\images\\9ee8a075-3a9b-4406-aee8-365b8e678abf_1.jpg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\images\\WhatsApp Image 2024-08-22 at 12.07.17 AM.jpeg",
+      "PackagePath": "staticwebassets\\files\\images\\WhatsApp Image 2024-08-22 at 12.07.17 AM.jpeg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\images\\a0b3b6ff-2bf4-4505-92ba-39cf68d585e7WhatsApp Image 2024-08-22 at 12.07.17 AM.jpeg",
+      "PackagePath": "staticwebassets\\files\\images\\a0b3b6ff-2bf4-4505-92ba-39cf68d585e7WhatsApp Image 2024-08-22 at 12.07.17 AM.jpeg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\images\\a858b84b-fd1d-4d68-a2c2-25e8014c476d5.jpg",
+      "PackagePath": "staticwebassets\\files\\images\\a858b84b-fd1d-4d68-a2c2-25e8014c476d5.jpg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\images\\a91a874c-85f2-42d6-9220-628e53d06493_Formal pic.jpg",
+      "PackagePath": "staticwebassets\\files\\images\\a91a874c-85f2-42d6-9220-628e53d06493_Formal pic.jpg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\images\\ab204ff1-e5ee-4e36-be12-bce4415541a2image.png",
+      "PackagePath": "staticwebassets\\files\\images\\ab204ff1-e5ee-4e36-be12-bce4415541a2image.png"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\images\\b55ce330-5b25-4433-a2db-3034df4b9591_product_01.png",
+      "PackagePath": "staticwebassets\\files\\images\\b55ce330-5b25-4433-a2db-3034df4b9591_product_01.png"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\images\\b6058f5c-2c6e-460d-a80e-1b9f2ae830cc_wallpaperflare.com_wallpaper (16).jpg",
+      "PackagePath": "staticwebassets\\files\\images\\b6058f5c-2c6e-460d-a80e-1b9f2ae830cc_wallpaperflare.com_wallpaper (16).jpg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\images\\b60fe055-1634-41d8-b547-fd95c71f3646_product_07_large.png",
+      "PackagePath": "staticwebassets\\files\\images\\b60fe055-1634-41d8-b547-fd95c71f3646_product_07_large.png"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\images\\b7262228-ba4d-498d-9988-0a1520b91628_product_06.png",
+      "PackagePath": "staticwebassets\\files\\images\\b7262228-ba4d-498d-9988-0a1520b91628_product_06.png"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\images\\b75f98e9-5965-4256-8706-9f891d990bd3_product_05.png",
+      "PackagePath": "staticwebassets\\files\\images\\b75f98e9-5965-4256-8706-9f891d990bd3_product_05.png"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\images\\b9505d41-36eb-4970-ae58-cda9a9e7ac9f_wallpaperflare.com_wallpaper (59).jpg",
+      "PackagePath": "staticwebassets\\files\\images\\b9505d41-36eb-4970-ae58-cda9a9e7ac9f_wallpaperflare.com_wallpaper (59).jpg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\images\\bb55e540-8ccd-404e-9aba-505d8adc3b7d_product_03.png",
+      "PackagePath": "staticwebassets\\files\\images\\bb55e540-8ccd-404e-9aba-505d8adc3b7d_product_03.png"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\images\\c20ef653-c5b0-4f9e-b912-368796e57352_person_3.jpg",
+      "PackagePath": "staticwebassets\\files\\images\\c20ef653-c5b0-4f9e-b912-368796e57352_person_3.jpg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\images\\c922337d-3d30-489e-a292-f85f7703594d_product_02.png",
+      "PackagePath": "staticwebassets\\files\\images\\c922337d-3d30-489e-a292-f85f7703594d_product_02.png"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\images\\d148bd32-cf25-476e-872c-930115a04410_1.jpg",
+      "PackagePath": "staticwebassets\\files\\images\\d148bd32-cf25-476e-872c-930115a04410_1.jpg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\images\\d1b86040-36d6-4e83-97ed-4b348a90a773_product_01.png",
+      "PackagePath": "staticwebassets\\files\\images\\d1b86040-36d6-4e83-97ed-4b348a90a773_product_01.png"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\images\\d1d55234-066e-4b2e-9424-d0e58b296a89_person_1.jpg",
+      "PackagePath": "staticwebassets\\files\\images\\d1d55234-066e-4b2e-9424-d0e58b296a89_person_1.jpg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\images\\d2985e72-023e-480f-b277-24ff58a34ba4_wallpaperflare.com_wallpaper (59).jpg",
+      "PackagePath": "staticwebassets\\files\\images\\d2985e72-023e-480f-b277-24ff58a34ba4_wallpaperflare.com_wallpaper (59).jpg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\images\\d5224524-16a4-4380-a644-789419af6e35product_07_large.png",
+      "PackagePath": "staticwebassets\\files\\images\\d5224524-16a4-4380-a644-789419af6e35product_07_large.png"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\images\\e25edf08-00ca-4096-9165-4365856d8e02_product_06.png",
+      "PackagePath": "staticwebassets\\files\\images\\e25edf08-00ca-4096-9165-4365856d8e02_product_06.png"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\images\\ece33ab3-d2a2-4d47-80ea-8795e137c2aa_shoe.png",
+      "PackagePath": "staticwebassets\\files\\images\\ece33ab3-d2a2-4d47-80ea-8795e137c2aa_shoe.png"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\images\\eeb85077-ea79-4852-bec8-d345ecf48a6c_shoe.png",
+      "PackagePath": "staticwebassets\\files\\images\\eeb85077-ea79-4852-bec8-d345ecf48a6c_shoe.png"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\images\\f0b05e99-64e2-48b2-bbb8-6d3c43194e79_product_04.png",
+      "PackagePath": "staticwebassets\\files\\images\\f0b05e99-64e2-48b2-bbb8-6d3c43194e79_product_04.png"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\images\\f2fe5d99-7e63-4f7b-86bf-4c00521f80a7_product_02.png",
+      "PackagePath": "staticwebassets\\files\\images\\f2fe5d99-7e63-4f7b-86bf-4c00521f80a7_product_02.png"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\images\\f443c401-8db2-4c31-aee2-301d0c5a80ef_product_04.png",
+      "PackagePath": "staticwebassets\\files\\images\\f443c401-8db2-4c31-aee2-301d0c5a80ef_product_04.png"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\images\\f9b7e3f8-5c2e-4c5b-8d8c-b6093c7af922_2.jpg",
+      "PackagePath": "staticwebassets\\files\\images\\f9b7e3f8-5c2e-4c5b-8d8c-b6093c7af922_2.jpg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\images\\fc01e493-2720-4285-bdd0-a4f6ea5a695f_61mpEXbBXoL._AC_SL1000_.jpg",
+      "PackagePath": "staticwebassets\\files\\images\\fc01e493-2720-4285-bdd0-a4f6ea5a695f_61mpEXbBXoL._AC_SL1000_.jpg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\images\\fdd5f05a-de4b-46e6-8bd5-3f28f9cd6def_product_06.png",
+      "PackagePath": "staticwebassets\\files\\images\\fdd5f05a-de4b-46e6-8bd5-3f28f9cd6def_product_06.png"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\images\\product_01.png",
+      "PackagePath": "staticwebassets\\files\\images\\product_01.png"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\images\\product_02.png",
+      "PackagePath": "staticwebassets\\files\\images\\product_02.png"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\images\\product_03.png",
+      "PackagePath": "staticwebassets\\files\\images\\product_03.png"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\images\\product_04.png",
+      "PackagePath": "staticwebassets\\files\\images\\product_04.png"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\images\\product_05.png",
+      "PackagePath": "staticwebassets\\files\\images\\product_05.png"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\files\\images\\product_06.png",
+      "PackagePath": "staticwebassets\\files\\images\\product_06.png"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\fonts\\Inter-Black.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Inter-Black.woff2"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\fonts\\Inter-Bold.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Inter-Bold.woff2"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\fonts\\Inter-ExtraBold.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Inter-ExtraBold.woff2"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\fonts\\Inter-ExtraLight.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Inter-ExtraLight.woff2"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\fonts\\Inter-Light.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Inter-Light.woff2"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\fonts\\Inter-Medium.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Inter-Medium.woff2"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\fonts\\Inter-Regular.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Inter-Regular.woff2"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\fonts\\Inter-SemiBold.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Inter-SemiBold.woff2"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\fonts\\Inter-Thin.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Inter-Thin.woff2"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\fonts\\demo.html",
+      "PackagePath": "staticwebassets\\fonts\\demo.html"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\fonts\\icomoon\\Read Me.txt",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\Read Me.txt"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\fonts\\icomoon\\demo-files\\demo.css",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\demo-files\\demo.css"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\fonts\\icomoon\\demo-files\\demo.js",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\demo-files\\demo.js"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\fonts\\icomoon\\demo.html",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\demo.html"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\fonts\\icomoon\\fonts\\icomoon.eot",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\fonts\\icomoon.eot"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\fonts\\icomoon\\fonts\\icomoon.svg",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\fonts\\icomoon.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\fonts\\icomoon\\fonts\\icomoon.ttf",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\fonts\\icomoon.ttf"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\fonts\\icomoon\\fonts\\icomoon.woff",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\fonts\\icomoon.woff"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\fonts\\icomoon\\selection.json",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\selection.json"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\fonts\\icomoon\\style.css",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\style.css"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\fonts\\stylesheet.css",
+      "PackagePath": "staticwebassets\\fonts\\stylesheet.css"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\1361149.png",
+      "PackagePath": "staticwebassets\\images\\1361149.png"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\2.jpg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\627105_original_1843x4096_1712363319.jpg",
+      "PackagePath": "staticwebassets\\images\\627105_original_1843x4096_1712363319.jpg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\81GWztc-kwL._AC_UF1000,1000_QL80_.jpg",
+      "PackagePath": "staticwebassets\\images\\81GWztc-kwL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\Formal pic.jpg",
+      "PackagePath": "staticwebassets\\images\\Formal pic.jpg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\PicsArt_02-22-01.45.59.jpg",
+      "PackagePath": "staticwebassets\\images\\PicsArt_02-22-01.45.59.jpg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\WhatsApp Image 2024-06-29 at 22.59.06_a8f6f587.jpg",
+      "PackagePath": "staticwebassets\\images\\WhatsApp Image 2024-06-29 at 22.59.06_a8f6f587.jpg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\WhatsApp Image 2024-08-22 at 12.07.17 AM.jpeg",
+      "PackagePath": "staticwebassets\\images\\WhatsApp Image 2024-08-22 at 12.07.17 AM.jpeg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\avatar\\Avatar.svg",
+      "PackagePath": "staticwebassets\\images\\avatar\\Avatar.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\avatar\\avatar-2.svg",
+      "PackagePath": "staticwebassets\\images\\avatar\\avatar-2.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\avatar\\avatar-face-02.png",
+      "PackagePath": "staticwebassets\\images\\avatar\\avatar-face-02.png"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\avatar\\avatar-face-02.webp",
+      "PackagePath": "staticwebassets\\images\\avatar\\avatar-face-02.webp"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\avatar\\avatar-face-03.png",
+      "PackagePath": "staticwebassets\\images\\avatar\\avatar-face-03.png"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\avatar\\avatar-face-03.webp",
+      "PackagePath": "staticwebassets\\images\\avatar\\avatar-face-03.webp"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\avatar\\avatar-face-04.png",
+      "PackagePath": "staticwebassets\\images\\avatar\\avatar-face-04.png"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\avatar\\avatar-face-04.webp",
+      "PackagePath": "staticwebassets\\images\\avatar\\avatar-face-04.webp"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\avatar\\avatar-face-05.png",
+      "PackagePath": "staticwebassets\\images\\avatar\\avatar-face-05.png"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\avatar\\avatar-face-05.webp",
+      "PackagePath": "staticwebassets\\images\\avatar\\avatar-face-05.webp"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\avatar\\avatar-illustrated-01.png",
+      "PackagePath": "staticwebassets\\images\\avatar\\avatar-illustrated-01.png"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\avatar\\avatar-illustrated-01.webp",
+      "PackagePath": "staticwebassets\\images\\avatar\\avatar-illustrated-01.webp"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\avatar\\avatar-illustrated-02.png",
+      "PackagePath": "staticwebassets\\images\\avatar\\avatar-illustrated-02.png"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\avatar\\avatar-illustrated-02.webp",
+      "PackagePath": "staticwebassets\\images\\avatar\\avatar-illustrated-02.webp"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\avatar\\avatar-illustrated-03.png",
+      "PackagePath": "staticwebassets\\images\\avatar\\avatar-illustrated-03.png"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\avatar\\avatar-illustrated-03.webp",
+      "PackagePath": "staticwebassets\\images\\avatar\\avatar-illustrated-03.webp"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\avatar\\avatar-illustrated-04.png",
+      "PackagePath": "staticwebassets\\images\\avatar\\avatar-illustrated-04.png"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\avatar\\avatar-illustrated-04.webp",
+      "PackagePath": "staticwebassets\\images\\avatar\\avatar-illustrated-04.webp"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\bg_1.jpg",
+      "PackagePath": "staticwebassets\\images\\bg_1.jpg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\bg_2.jpg",
+      "PackagePath": "staticwebassets\\images\\bg_2.jpg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\categories\\01.jpg",
+      "PackagePath": "staticwebassets\\images\\categories\\01.jpg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\categories\\01.webp",
+      "PackagePath": "staticwebassets\\images\\categories\\01.webp"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\categories\\02.jpg",
+      "PackagePath": "staticwebassets\\images\\categories\\02.jpg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\categories\\02.webp",
+      "PackagePath": "staticwebassets\\images\\categories\\02.webp"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\categories\\03.jpg",
+      "PackagePath": "staticwebassets\\images\\categories\\03.jpg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\categories\\03.webp",
+      "PackagePath": "staticwebassets\\images\\categories\\03.webp"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\categories\\04.jpg",
+      "PackagePath": "staticwebassets\\images\\categories\\04.jpg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\categories\\04.webp",
+      "PackagePath": "staticwebassets\\images\\categories\\04.webp"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\hero_1.jpg",
+      "PackagePath": "staticwebassets\\images\\hero_1.jpg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\person_1.jpg",
+      "PackagePath": "staticwebassets\\images\\person_1.jpg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\person_2.jpg",
+      "PackagePath": "staticwebassets\\images\\person_2.jpg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\person_3.jpg",
+      "PackagePath": "staticwebassets\\images\\person_3.jpg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\person_4.jpg",
+      "PackagePath": "staticwebassets\\images\\person_4.jpg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\person_5.jpg",
+      "PackagePath": "staticwebassets\\images\\person_5.jpg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\product_01.png",
+      "PackagePath": "staticwebassets\\images\\product_01.png"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\product_02.png",
+      "PackagePath": "staticwebassets\\images\\product_02.png"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\product_03.png",
+      "PackagePath": "staticwebassets\\images\\product_03.png"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\product_04.png",
+      "PackagePath": "staticwebassets\\images\\product_04.png"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\product_05.png",
+      "PackagePath": "staticwebassets\\images\\product_05.png"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\product_06.png",
+      "PackagePath": "staticwebassets\\images\\product_06.png"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\product_07_large.png",
+      "PackagePath": "staticwebassets\\images\\product_07_large.png"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\products_1.png",
+      "PackagePath": "staticwebassets\\images\\products_1.png"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\shoe.png",
+      "PackagePath": "staticwebassets\\images\\shoe.png"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\404.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\404.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\2 User.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\2 User.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\3-User-gray.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\3-User-gray.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\3-User-white.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\3-User-white.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Activity.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Activity.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\AddUser.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\AddUser.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Arrow-Down.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Arrow-Down.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Arrow-Down2.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Arrow-Down2.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Arrow-Down3.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Arrow-Down3.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Arrow-DownCircle.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Arrow-DownCircle.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Arrow-DownSquare.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Arrow-DownSquare.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Arrow-Left.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Arrow-Left.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Arrow-Left2.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Arrow-Left2.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Arrow-Left3.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Arrow-Left3.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Arrow-LeftCircle.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Arrow-LeftCircle.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Arrow-LeftSquare.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Arrow-LeftSquare.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Arrow-Right.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Arrow-Right.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Arrow-Right2.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Arrow-Right2.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Arrow-Right3.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Arrow-Right3.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Arrow-RightCircle.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Arrow-RightCircle.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Arrow-RightSquare.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Arrow-RightSquare.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Arrow-Up.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Arrow-Up.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Arrow-Up2.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Arrow-Up2.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Arrow-Up3.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Arrow-Up3.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Arrow-UpCircle.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Arrow-UpCircle.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Arrow-UpSquare.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Arrow-UpSquare.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Arrows-up-down.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Arrows-up-down.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Bag 3.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Bag 3.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Bag.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Bag.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Bookmark.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Bookmark.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Buy.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Buy.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Calendar.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Calendar.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Call Missed.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Call Missed.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Call Silent.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Call Silent.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Call.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Call.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Calling.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Calling.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Camera.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Camera.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Category-gray.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Category-gray.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Category-white.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Category-white.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Chart.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Chart.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Chat.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Chat.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Close Square.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Close Square.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Danger.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Danger.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Delete.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Delete.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Discount.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Discount.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Discovery.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Discovery.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Document-gray.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Document-gray.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Document-white.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Document-white.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Download.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Download.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Edit Square.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Edit Square.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Edit-gray.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Edit-gray.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Edit-white.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Edit-white.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Filter 2.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Filter 2.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Filter.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Filter.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Folder-gray.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Folder-gray.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Folder-white.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Folder-white.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Game.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Game.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Graph.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Graph.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Heart.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Heart.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Hide.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Hide.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Home-gray.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Home-gray.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Home-white.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Home-white.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Image 3.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Image 3.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Image-gray.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Image-gray.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Image-white.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Image-white.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Info Circle.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Info Circle.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Info Square.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Info Square.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Location.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Location.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Lock.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Lock.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Login.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Login.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Logout.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Logout.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Menu-toggle-gray.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Menu-toggle-gray.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Menu-toggle-white.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Menu-toggle-white.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Message-gray.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Message-gray.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Message-white.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Message-white.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\More Circle.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\More Circle.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\More Square.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\More Square.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Notification-gray.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Notification-gray.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Notification.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Notification.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Paper Download.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Paper Download.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Paper Fail.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Paper Fail.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Paper Negative.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Paper Negative.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Paper Plus.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Paper Plus.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Paper Upload.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Paper Upload.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Paper-gray.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Paper-gray.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Paper-white.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Paper-white.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Password.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Password.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Play.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Play.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Plus.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Plus.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Profile.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Profile.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Scan.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Scan.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Search.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Search.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Send.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Send.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Setting-gray.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Setting-gray.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Setting-white.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Setting-white.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Settings-line.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Settings-line.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Shield Done.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Shield Done.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Shield Fail.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Shield Fail.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Show.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Show.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Star.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Star.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Swap.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Swap.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Tick Square.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Tick Square.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Ticket Star.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Ticket Star.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Ticket.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Ticket.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Time Square.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Time Square.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\TimeCircle.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\TimeCircle.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Unlock.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Unlock.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Upload.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Upload.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Video.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Video.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Voice 3.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Voice 3.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Voice.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Voice.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Volume Down.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Volume Down.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Volume Off.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Volume Off.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Volume Up.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Volume Up.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Wallet.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Wallet.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Bulk\\Work.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Bulk\\Work.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\GoogleDrive.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\GoogleDrive.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\Logo.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Logo.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\baloon.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\baloon.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\customers.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\customers.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\dropbox.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\dropbox.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\image-frame.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\image-frame.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\move.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\move.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\radio.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\radio.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\svg\\thumbnail.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\thumbnail.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\wave.svg",
+      "PackagePath": "staticwebassets\\images\\wave.svg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\images\\women.jpg",
+      "PackagePath": "staticwebassets\\images\\women.jpg"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\js\\aos.js",
+      "PackagePath": "staticwebassets\\js\\aos.js"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\js\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\js\\jquery-ui.js"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\js\\slick.min.js"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\plugins\\chart.min.js",
+      "PackagePath": "staticwebassets\\plugins\\chart.min.js"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\plugins\\feather.min.js",
+      "PackagePath": "staticwebassets\\plugins\\feather.min.js"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\plugins\\feather.min.js.map",
+      "PackagePath": "staticwebassets\\plugins\\feather.min.js.map"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\scss\\_site-base.scss",
+      "PackagePath": "staticwebassets\\scss\\_site-base.scss"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\scss\\_site-blocks.scss",
+      "PackagePath": "staticwebassets\\scss\\_site-blocks.scss"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\scss\\_site-navbar.scss",
+      "PackagePath": "staticwebassets\\scss\\_site-navbar.scss"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\scss\\bootstrap\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_alert.scss"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\scss\\bootstrap\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_badge.scss"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\scss\\bootstrap\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_breadcrumb.scss"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\scss\\bootstrap\\_button-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_button-group.scss"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\scss\\bootstrap\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\scss\\bootstrap\\_card.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_card.scss"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\scss\\bootstrap\\_carousel.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_carousel.scss"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\scss\\bootstrap\\_close.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_close.scss"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\scss\\bootstrap\\_code.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_code.scss"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\scss\\bootstrap\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_custom-forms.scss"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\scss\\bootstrap\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\scss\\bootstrap\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_forms.scss"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\scss\\bootstrap\\_functions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_functions.scss"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\scss\\bootstrap\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_grid.scss"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\scss\\bootstrap\\_images.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_images.scss"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\scss\\bootstrap\\_input-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_input-group.scss"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\scss\\bootstrap\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_jumbotron.scss"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\scss\\bootstrap\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\scss\\bootstrap\\_media.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_media.scss"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\scss\\bootstrap\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\scss\\bootstrap\\_modal.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_modal.scss"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\scss\\bootstrap\\_nav.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_nav.scss"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\scss\\bootstrap\\_navbar.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\scss\\bootstrap\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\scss\\bootstrap\\_popover.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_popover.scss"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\scss\\bootstrap\\_print.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_print.scss"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\scss\\bootstrap\\_progress.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_progress.scss"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\scss\\bootstrap\\_reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_reboot.scss"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\scss\\bootstrap\\_root.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_root.scss"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\scss\\bootstrap\\_tables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_tables.scss"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\scss\\bootstrap\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_tooltip.scss"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\scss\\bootstrap\\_transitions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_transitions.scss"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\scss\\bootstrap\\_type.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_type.scss"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\scss\\bootstrap\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\scss\\bootstrap\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_variables.scss"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\scss\\bootstrap\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\scss\\bootstrap\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\scss\\bootstrap\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\bootstrap.scss"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\scss\\bootstrap\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\scss\\bootstrap\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\scss\\bootstrap\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\scss\\bootstrap\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\scss\\bootstrap\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\scss\\bootstrap\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\scss\\bootstrap\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\scss\\bootstrap\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\scss\\bootstrap\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\scss\\bootstrap\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_float.scss"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\scss\\bootstrap\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\scss\\bootstrap\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\scss\\bootstrap\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\scss\\bootstrap\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\scss\\bootstrap\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\scss\\bootstrap\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_image.scss"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\scss\\bootstrap\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\scss\\bootstrap\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\scss\\bootstrap\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\scss\\bootstrap\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\scss\\bootstrap\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\scss\\bootstrap\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\scss\\bootstrap\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\scss\\bootstrap\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_size.scss"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\scss\\bootstrap\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\scss\\bootstrap\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\scss\\bootstrap\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\scss\\bootstrap\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\scss\\bootstrap\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\scss\\bootstrap\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\scss\\bootstrap\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_align.scss"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\scss\\bootstrap\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_background.scss"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\scss\\bootstrap\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\scss\\bootstrap\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\scss\\bootstrap\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_display.scss"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\scss\\bootstrap\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\scss\\bootstrap\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\scss\\bootstrap\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_float.scss"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\scss\\bootstrap\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_position.scss"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\scss\\bootstrap\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\scss\\bootstrap\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\scss\\bootstrap\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\scss\\bootstrap\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\scss\\bootstrap\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_text.scss"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\scss\\bootstrap\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "D:\\work\\Saydalia-Online\\Saydalia-Online\\wwwroot\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\scss\\style.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Saydalia-Online.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Saydalia-Online.props",
+      "PackagePath": "build\\Saydalia-Online.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Saydalia-Online.props",
+      "PackagePath": "buildMultiTargeting\\Saydalia-Online.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Saydalia-Online.props",
+      "PackagePath": "buildTransitive\\Saydalia-Online.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
